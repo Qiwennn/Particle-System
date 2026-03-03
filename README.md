@@ -1,4 +1,4 @@
-# CSCI 522 Milestone — Particle System
+# Particle System
 
 # Demo Video
 ![ezgif com-crop](https://github.com/user-attachments/assets/9c21a994-4183-4a0e-bae5-4d9f36fb01a2)
