@@ -24,7 +24,7 @@
 
 - What:
 
-  - Advance each particle's age, move it using its velocity and a small horizontal swirl, and vary its size over time.
+  - Advance each particle's age and position, move it using its velocity and a small horizontal swirl, and vary its size over time.
 
   - Respawn particles at the emitter when their lifetime ends; add particles up to the configured buffer capacity when looping is enabled.
 
